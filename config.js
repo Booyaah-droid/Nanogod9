@@ -7,9 +7,9 @@
 */
 
 global.prefa = ['','!','.',',','🐸','🗿']
-global.owner = ['242067274660']
-global.ownMain = '242067274660'
-global.NamaOwner = 'NaofumiSamaSir' //your name
+global.owner = ['50941469808']
+global.ownMain = '50941469808'
+global.NamaOwner = '~𓄂⍣⃝𝗚𝗢𝗗𝄟🍷✮͢≛⃝𝄟𝐃𝚯𝚳𝚫✮⃝👑' //your name
 global.sessionName = 'session'
 global.connect = true // for qr code do this false
 global.namabot = 'NANO-GOD-9' //don't change
